@@ -7,7 +7,7 @@
     "lint": "eslint src//*.js --fix",
     "prettier": "prettier --write src//*.js",
     "server": "parcel src//index.html",
-    "build": "parcel build src/index.html --out-dir docs --public-url --no-cache /storytelling-first-homework"
+    "build": "parcel build src/index.html --out-dir docs --public-url /storytelling-first-homework"
     },
   "author": "",
   "license": "ISC",
